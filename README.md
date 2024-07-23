@@ -1,6 +1,6 @@
 ## Hi! My name is Aaishwarya Kulkarni. I am a Software Engineer 👋
 
-### 🧠 Languages and Tools
+### 🧠 Technical Skillset
 
 | Type | Badges |
 | -- | -- |
