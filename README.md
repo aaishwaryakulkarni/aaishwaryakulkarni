@@ -2,10 +2,12 @@
 
 ### 🧠 Languages and Tools
 
-| Type | Badges |
-| -- | -- |
-| Scripting languages | Python Java Javascript |
-| Python Libraries/Frameworks | Django Pandas Matplotlib Seaborn Scikit-learn PySpark PyTest | 
+| Scripting languages | Python, Java, Javascript |
+| Python Libraries/Frameworks | Django, Pandas, Matplotlib, Seaborn, Scikit-learn, PySpark, PyTest | 
+| Databases | MySQL, PostgreSQL, SQLite, Google Cloud Database |
+| Monitoring and Logging | Prometheus, Grafana, CloudWatch, Snowflake |
+| Google Technologies | Google App Scripts, Google APIs, Google Ads API |
+|Other | AWS, Docker, Jupyter, Jira |
 
 ---
 ### 📝 Medium Articles
