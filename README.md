@@ -11,7 +11,6 @@
 | Google Technologies | Google App Scripts, Google APIs, Google Ads API |
 |Other | AWS, Docker, Jupyter, Jira |
 
----
 ### 📝 Medium Articles
 
 <!-- MEDIUM:START -->
