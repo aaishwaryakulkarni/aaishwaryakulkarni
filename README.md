@@ -2,8 +2,10 @@
 
 ### 🧠 Languages and Tools
 
-| Scripting languages | !Python !Java, !Javascript |
-| Python Libraries/Frameworks | !Django !Pandas !Matplotlib !Seaborn !Scikit-learn !PySpark !PyTest | 
+| Type | Badges |
+| -- | -- |
+| Scripting languages | Python Java Javascript |
+| Python Libraries/Frameworks | Django Pandas Matplotlib Seaborn Scikit-learn PySpark PyTest | 
 
 ---
 ### 📝 Medium Articles
