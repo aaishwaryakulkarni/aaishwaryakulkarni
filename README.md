@@ -1,7 +1,11 @@
-# My name is Aaishwarya Kulkarni 👋
+## Hi! My name is Aaishwarya Kulkarni. I am a Software Engineer 👋
 
-## I am a Software Engineer
+### 🧠 Languages and Tools
 
+| Scripting languages | !Python !Java, !Javascript |
+| Python Libraries/Frameworks | !Django !Pandas !Matplotlib !Seaborn !Scikit-learn !PySpark !PyTest | 
+
+---
 ### 📝 Medium Articles
 
 <!-- MEDIUM:START -->
