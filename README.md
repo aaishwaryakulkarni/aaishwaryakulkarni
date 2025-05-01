@@ -19,4 +19,7 @@
 - [3 Tips for Mastering Linked List Problems](https://medium.com/@aaishwaryakulkarni/3-tips-for-mastering-linked-list-problems-bcac5a0d6bbb)
 - [Perfecting Leetcode 200: Number of Islands](https://medium.com/@aaishwaryakulkarni/perfecting-leetcode-200-number-of-islands-ebd387776f8d)
 - [Longest Common Subsequence: A Dynamic Programming Problem](https://medium.com/@aaishwaryakulkarni/longest-common-subsequence-a-dynamic-programming-problem-754a20c29a6d)
+- [Tackling Tree Data Structure Problems: Tips and Techniques](https://medium.com/@aaishwaryakulkarni/tackling-tree-data-structure-problems-tips-and-techniques-342164d94e52)
+- [Introduction to Bloom Filters: Achieving Efficiency and Accuracy](https://medium.com/@aaishwaryakulkarni/introduction-to-bloom-filters-achieving-efficiency-and-accuracy-ebca0d03e499)
+- [Tap, Pay, Done: Inside Apple Pay](https://medium.com/@aaishwaryakulkarni/tap-pay-done-inside-apple-pay-f1a8f68ebe18)
 <!-- MEDIUM:END -->
